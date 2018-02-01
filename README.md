@@ -10,24 +10,21 @@
 请自觉忽略样式不好看的问题哈哈哈，希望对初学VUE的朋友有所帮助！
 
 ## 线上地址
-``` bash
 http://1.xsnmusic.applinzi.com
-```
 
-##手机扫码访问
-``` bash
+## 手机扫码访问
+
 ![Markdown](./src/assets/img/mobile.png)
-```
 
-##部分截图
-``` bash
+## 部分截图
+
 ![Markdown](./src/assets/img/pub_1.png)
 ![Markdown](./src/assets/img/pub_2.png)
 ![Markdown](./src/assets/img/pub_3.png)
 ![Markdown](./src/assets/img/pub_4.png)
 ![Markdown](./src/assets/img/pub_5.png)
-```
-##项目地址
+
+## 项目地址
 
 ```shell
 git clone https://github.com/xiaosineng/wangyiyun.git
