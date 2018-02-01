@@ -3,7 +3,7 @@
 ## wangyiyun
 
 
-这是一个以学习为目的的基于vue2 + vue-router2 + vuex + axios + mintUI + MUI +audeo插件的VUE实战项目，
+这是一个以学习为目的的基于vue2 + vue-router2 + vuex + axios + mintUI + MUI +audio插件的VUE实战项目，
 做此项目主要是为了增强对VUE的理解和学习。做完之后发现诸多的BUG；
 但是因为时间的关系，也没有去解决了，同时鉴于本人英语水平渣，
 如果您看到我的代码变量请嘴下留情（尴尬脸）！
